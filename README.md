@@ -1,3 +1,5 @@
+Hello,
+
 This home assignment was part of my process to my previous position as a software developer at Safebreach .
 
 The application:
